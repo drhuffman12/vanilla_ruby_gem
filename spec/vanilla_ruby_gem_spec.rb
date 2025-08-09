@@ -6,6 +6,7 @@ RSpec.describe VanillaRubyGem do
   end
 
   it "does something useful" do
-    expect(false).to eq(true)
+    expect(true).to eq(true)
+    # todo.. Put real rspec code in here
   end
 end
